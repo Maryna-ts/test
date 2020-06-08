@@ -1,0 +1,341 @@
+body {
+    max-width: 1024px;
+    height: 700px;
+    margin: 0 auto;
+    background: #E5E5E5;
+
+    }
+.first-screen {
+    width: 1024px;
+    height: 580px;
+    background-color: lightgrey;
+}
+
+.navigation {
+    padding: 58px 10px 0 102px;
+    margin: 0 0 259px 0;
+    min-height: 85px;
+    box-sizing: border-box;
+    width: 1024px;
+    height: 700px;
+    background-color: green;
+    }
+.navigation-logo, .navigation-list {
+    float: left;
+}
+.navigation-logo {
+    margin: 17px 202px 100px 0;
+}
+.navigation-list ul {
+    padding: 0;
+    margin: 17px 0 0 0;
+    list-style-type: none;
+}
+.navigation-list ul li {
+    float: left;
+    margin-right: 42px;
+}
+.navigation-list ul li: last-child {
+    margin: 0;
+}
+.navigation-list ul li: irst-child {
+    margin: 0;
+}
+.navigation-list ul li a {
+    text-decoration: none;
+    color: black;
+    letter-spacing: 0.1em
+    font-size: 16px;
+    line-height: 26px;
+}
+.navigation-list ul li a hover {
+    color: red;
+}
+
+/* Banner*/
+.banner {
+    padding: 0 0 0 90px;
+}
+
+.banner-image {
+    float: left;
+    margin: 80px 90px 0 -165px;
+}
+.banner-description {
+    float: left;
+}
+
+.banner-description h2 {
+    font-size: 48px;
+    line-height: 79px;
+    color: #000000;
+    margin: 58px 0 60px 0;
+}
+.banner-description p {
+     font-size: 16px;
+     line-height: 26px;
+     color: #727272;
+     margin: 0 0 60px 0;
+     width: 540px;
+}
+.banner-description button {
+    width: 200px;
+    height: 55px;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    outline: none;
+    border: none;
+    background: #34547A;
+    cursor: pointer;
+}
+/* Добавочные*/
+
+/* Rectangle */
+
+.rectangle {
+    float: left;
+    
+}
+.rectangle h1 {
+     font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    color: #000000;
+    margin: 100px 0 40px 0;
+    }
+.rectangle {
+    width: 1024px;
+    height: 300px;
+    background-color: white;
+  }
+.rectangle p {
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #727272;
+    margin: 40px 250px 60px 250px;
+}
+.Group {
+    float: left;
+    width: 1024px;
+    height: 250px;
+    background: #34547A;
+       
+}
+.Proekt-image {
+    float: left;
+    width: 69px;
+    height: 70px;
+    margin-top: 20px;
+    display: inline-block;    
+    margin: 90px 0 89px 120px;
+
+}
+.skills {
+    float: left;
+    width: 1024px;
+    height: 580px;
+    background-color: white;
+}
+.skill {
+    float: left;
+    width: 371px;
+    height: 332px;
+    margin: 120px 40px 120px 40px;
+}
+.video {
+    float: left;
+    width: 1024px;
+    height: 781px;
+    background: #EEEFF1;
+}
+.vidos-text h1 {
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    color: #000000;
+}
+.vidos-text p {
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #727272;
+    margin: 50px 256px;
+
+}
+.video-image {
+    width: 120px;
+    height: 50px;
+    margin: 0px 250px 50px 256px;
+    position: relative;
+   }
+  .video-image2 {
+    width: 80px;
+    height: 20px;
+    position: absolute;
+    top: 150px;
+    left: 200px;
+  }
+  .form {
+    float: left;
+    width: 1024px;
+    height: 512px;
+    background: white;
+    display: inline-block;
+ 
+    }   
+.img1 {
+      float: left; 
+      margin-left: 0;
+      font-size: 0;  
+  }
+  .img2 {
+    float: left;
+    position: relative;
+    margin-left: 0;
+    font-size: 0;
+}
+.agy {
+    width: 27px;
+    height: 27px;
+    position: absolute;
+    top: 88px;
+    left: 88px;
+}
+.img3 {
+    float: left;
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+}
+.artikul {
+    float: left;
+    width: 1024px;
+    height: 150px;
+    background: white;
+        
+}
+.art {
+    float: left;
+    width: 130px;
+    height: 10px;
+    display: inline-block;    
+    margin: 19px 80px 19px 46px;
+    left: 70px;
+}
+.client{
+    width: 1024px;
+    height: 1325px;
+    background: #EEEFF1;
+   
+}
+.text h1 {
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    color: #000000;
+    margin: 60px 0 65px 0;
+}
+.text p {
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #727272;
+    margin: 0px 256px;
+  
+}
+.rect {
+    width: 273px;
+    height: 65.86px;
+    background: #FFFFFF;
+    margin: 50px 0px 0 200px ;
+    position: relative;
+}
+.rect p {
+    font-size: 14px;
+    line-height: 23px;
+    color: #5F5D5D;
+    position: absolute;
+    margin: 22px 76px 23px 10px;
+    
+}
+.rect2 {
+    width: 273px;
+    height: 65.86px;
+    background: #FFFFFF;
+    margin: -65px 0px 0 520px ;
+    position: relative;
+}
+.rect2 p {
+    font-size: 14px;
+    line-height: 23px;
+    color: #5F5D5D;
+    position: absolute;
+    margin: 22px 76px 23px 10px;
+    
+}
+.rect3 {
+    width: 587px;
+    height: 230px;
+    background: #FFFFFF;
+    margin: 39px 0px 0 200px ;
+    position: relative;
+}
+.rect3 p {
+    font-size: 14px;
+    line-height: 23px;
+    color: #5F5D5D;
+    position: absolute;
+    margin: 22px 76px 23px 10px;
+    
+}
+.button1 button{
+    width: 200px;
+    height: 55px;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    outline: none;
+    border: none;
+    background: #34547A;
+    cursor: pointer;
+    margin: 40px 430px 0px 397px;
+}
+.prava {
+    width: 1024px;
+    height: 151px;
+    background: #34547A;
+    float: left;
+}
+.name h1 {
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 0px 730px 10px 150px;
+    padding-top: 50px;
+   }
+.name p {
+    font-size: 13px;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin: -21px 675px 50px 150px;
+    padding-top: 20px;
+
+}
+.log {
+    float: right;
+    width: 47px;
+    height: 48px;
+    margin: -128px 48px 50px 0px;
+    padding: 30px 0px 50px 12px;
+    display: inline-block;     }
+}
+  .clear:after {
+    clear: both;
+    content: '';
+    display: block
+}
